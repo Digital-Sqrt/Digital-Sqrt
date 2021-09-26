@@ -1,4 +1,4 @@
-![Digital-Sqrt](https://github.com/Digital-Sqrt/Digital-Sqrt/blob/main/Images/LOGO/Logo_300x73.png)
+![Digital-Sqrt](https://digital-sqrt.github.io/Digital-Sqrt/Images/LOGO/Logo_300x73.png)
 ## Welcome to Digital Sqrt
 
 You can use the [editor on GitHub](https://github.com/Digital-Sqrt/WEB_PAGES/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
