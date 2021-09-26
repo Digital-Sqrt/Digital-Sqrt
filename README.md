@@ -1,3 +1,4 @@
+![Image](Images\LOGO\big kid.svg.2017_01_21_23_53_08.0.svg)
 ## Welcome to Digital Sqrt
 
 You can use the [editor on GitHub](https://github.com/Digital-Sqrt/WEB_PAGES/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
