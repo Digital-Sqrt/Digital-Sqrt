@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+[[MOSTERFET](https://github.com/Digital-Sqrt/MOSTERFET/blob/master/Media/MOSTER_FET_LOGO_WEB.jpg)](https://github.com/Digital-Sqrt/MOSTERFET/wiki)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
