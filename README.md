@@ -25,12 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-Documentation<ul>
-    <li><a href="https://github.com/Digital-Sqrt/MOSTERFET/wiki">MOSTERFET</a></li>
-    <li><a href="https://github.com/Digital-Sqrt/Little-Monster">Little Monster</a></li>
-</ul>
-
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Digital-Sqrt/WEB_PAGES/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
