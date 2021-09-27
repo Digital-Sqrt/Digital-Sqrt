@@ -24,11 +24,11 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-[![MOSTERFET](https://github.com/Digital-Sqrt/MOSTERFET/blob/master/Media/MOSTER_FET_LOGO_WEB.jpg)](https://github.com/Digital-Sqrt/MOSTERFET/wiki)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<button class="button-save large">Big Fat Button</button>
+Documentation
+  * [MOSTERFET](https://github.com/Digital-Sqrt/MOSTERFET/wiki)
+  * [Little Monster](https://github.com/Digital-Sqrt/Little-Monster)
+
 
 ### Jekyll Themes
 
