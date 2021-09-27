@@ -25,21 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-Documentation
-<ul>
+Documentation<ul>
     <li><a href="https://github.com/Digital-Sqrt/MOSTERFET/wiki">MOSTERFET</a></li>
     <li><a href="https://github.com/Digital-Sqrt/Little-Monster">Little Monster</a></li>
 </ul>
 
-  * [MOSTERFET](https://github.com/Digital-Sqrt/MOSTERFET/wiki)
-  * [Little Monster](https://github.com/Digital-Sqrt/Little-Monster)
-
-<table>
-    <tr>
-        <td>Foo1</td>
-        <td>Foo2</td>
-    </tr>
-</table>
 
 ### Jekyll Themes
 
