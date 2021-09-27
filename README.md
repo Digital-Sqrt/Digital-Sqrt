@@ -34,6 +34,12 @@ Documentation
   * [MOSTERFET](https://github.com/Digital-Sqrt/MOSTERFET/wiki)
   * [Little Monster](https://github.com/Digital-Sqrt/Little-Monster)
 
+<table>
+    <tr>
+        <td>Foo1</td>
+        <td>Foo2</td>
+    </tr>
+</table>
 
 ### Jekyll Themes
 
