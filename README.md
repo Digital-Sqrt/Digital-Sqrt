@@ -17,11 +17,10 @@ Mosterfet<br>
 X Axis Tensioner Upgrade<br>
 [<img src="/Images/ICONS/tension.jpg">](https://www.ebay.com/itm/254151055965)<br>
 
-<p style="text-align:center;">
 <table>
 <tbody>
   <tr>
-    <td>Little Monster<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/253867492055"><img src="/Images/ICONS/LittleMonster.png" alt="Little Monster MOSFET"></a></td>
+    <td style="text-align:center">Little Monster<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/253867492055"><img src="/Images/ICONS/LittleMonster.png" alt="Little Monster MOSFET"></a></td>
     <td>CELL2</td>
   </tr>
   <tr>
