@@ -20,8 +20,14 @@ X Axis Tensioner Upgrade<br>
 <table>
 <tbody>
   <tr>
-    <td style="text-align:center">Little Monster<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/253867492055"><img src="/Images/ICONS/LittleMonster.png" alt="Little Monster MOSFET"></a></td>
-    <td><td style="text-align:center">Mosterfet<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/254727143701"><img src="/Images/ICONS/Mosterfet.png" alt="MOSTERFET MOSFET board"></a></td>
+    <td style="text-align:center">Little Monster<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/253867492055">
+                                                                    <img src="/Images/ICONS/LittleMonster.png" alt="Little Monster MOSFET">
+                                                                    </a>
+    </td>
+    <td style="text-align:center">Mosterfet<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/254727143701">
+                                                              <img src="/Images/ICONS/Mosterfet.png" alt="MOSTERFET MOSFET board">
+                                                              </a>
+    </td>
   </tr>
   <tr>
     <td>CELL3</td>
