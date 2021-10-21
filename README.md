@@ -9,13 +9,13 @@ Our Products still can be purchased on e-bay.<br>
 
 
 Little Monster<br>
-[<img src="https://github.com/Digital-Sqrt/Digital-Sqrt/blob/main/Images/ICONS/LittleMonster.png">](https://www.ebay.com/itm/253867492055)<br>
+[<img src="/Images/ICONS/LittleMonster.png">](https://www.ebay.com/itm/253867492055)<br>
 <br>
 Mosterfet<br>
-[<img src="https://github.com/Digital-Sqrt/Digital-Sqrt/blob/main/Images/ICONS/Mosterfet.png">](https://www.ebay.com/itm/254727143701)<br>
+[<img src="/Images/ICONS/Mosterfet.png">](https://www.ebay.com/itm/254727143701)<br>
 <br>
 X Axis Tensioner Upgrade<br>
-[<img src="https://github.com/Digital-Sqrt/Digital-Sqrt/blob/main/Images/ICONS/tension.jpg">](https://www.ebay.com/itm/254151055965)<br>
+[<img src="/Images/ICONS/tension.jpg">](https://www.ebay.com/itm/254151055965)<br>
 
 
 
