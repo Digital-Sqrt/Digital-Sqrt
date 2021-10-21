@@ -9,7 +9,7 @@ Our Products still can be purchased on e-bay.<br>
 
 
 Little Monster<br>
-[<img src="/Images/ICONS/LittleMonster.png">](https://www.ebay.com/itm/253867492055)<br>
+[<img src="/Images/ICONS/LittleMonster.png" alt="Little Monster MOSFET">](https://www.ebay.com/itm/253867492055)<br>
 <br>
 Mosterfet<br>
 [<img src="/Images/ICONS/Mosterfet.png">](https://www.ebay.com/itm/254727143701)<br>
