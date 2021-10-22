@@ -32,7 +32,7 @@ X Axis Tensioner Upgrade<br>
     </td>
   </tr>
   <tr>
-    <td style="text-align:center">X Axis Tensioner<br>Upgrade<br><a href="https://www.ebay.com/itm/254727143701">
+    <td style="text-align:center">X Axis Tensioner<br>Upgrade<br><a href="https://www.ebay.com/itm/254151055965">
                                                           <img src="/Digital-Sqrt/Images/ICONS/tension.jpg" 
                                                                alt="X Axis Tensioner">
                                                           </a>
