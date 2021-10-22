@@ -29,9 +29,9 @@ Our Products still can be purchased on e-bay.<br>
                                                                alt="X Axis Tensioner">
                                                           </a>
     </td>
-    <td style="text-align:center">Mosterfet<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/254727143701">
-                                                          <img src="/Digital-Sqrt/Images/ICONS/Mosterfet.png" 
-                                                               alt="MOSTERFET MOSFET board">
+    <td style="text-align:center">GT2 Timing Belt<br><a href="https://www.ebay.com/itm/253534548764">
+                                                          <img src="/Digital-Sqrt/Images/ICONS/Belt.png" 
+                                                               alt="GT2 Timing Belt">
                                                           </a>
     </td>
   </tr>
