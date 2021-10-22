@@ -37,4 +37,3 @@ Our Products still can be purchased on e-bay.<br>
   </tr>
 </tbody>
 </table>
-</p>
