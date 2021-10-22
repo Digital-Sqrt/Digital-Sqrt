@@ -8,14 +8,6 @@ However,  we dont want to leave anyone who has our products without support.<br>
 Our Products still can be purchased on e-bay.<br>
 
 
-Little Monster<br>
-[<img src="/Images/ICONS/LittleMonster.png" alt="Little Monster MOSFET">](https://www.ebay.com/itm/253867492055)<br>
-<br>
-Mosterfet<br>
-[<img src="/Images/ICONS/Mosterfet.png">](https://www.ebay.com/itm/254727143701)<br>
-<br>
-X Axis Tensioner Upgrade<br>
-[<img src="/Images/ICONS/tension.jpg">](https://www.ebay.com/itm/254151055965)<br>
 
 <table>
 <tbody>
