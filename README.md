@@ -30,7 +30,7 @@ Our Products still can be purchased on e-bay.<br>
                                                           </a>
     </td>
     <td style="text-align:center">GT2 Timing Belt<br><a href="https://www.ebay.com/itm/253534548764">
-                                                          <img src="/Digital-Sqrt/Images/ICONS/Belt.png" 
+                                                          <img src="/Digital-Sqrt/Images/ICONS/Belt.jpg" 
                                                                alt="GT2 Timing Belt">
                                                           </a>
     </td>
