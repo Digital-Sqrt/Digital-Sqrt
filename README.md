@@ -26,14 +26,22 @@ X Axis Tensioner Upgrade<br>
                                                                     </a>
     </td>
     <td style="text-align:center">Mosterfet<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/254727143701">
-                                                              <img src="https://github.com/Digital-Sqrt/Digital-Sqrt/blob/main/Images/ICONS/Mosterfet.png" 
+                                                              <img src="/Digital-Sqrt/Images/ICONS/Mosterfet.png" 
                                                                    alt="MOSTERFET MOSFET board">
                                                               </a>
     </td>
   </tr>
   <tr>
-    <td>CELL3</td>
-    <td>CELL4</td>
+    <td style="text-align:center">X Axis Tensioner<br>Upgrade<br><a href="https://www.ebay.com/itm/254727143701">
+                                                          <img src="/Digital-Sqrt/Images/ICONS/tension.jpg" 
+                                                               alt="X Axis Tensioner">
+                                                          </a>
+    </td>
+    <td style="text-align:center">Mosterfet<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/254727143701">
+                                                          <img src="/Digital-Sqrt/Images/ICONS/Mosterfet.png" 
+                                                               alt="MOSTERFET MOSFET board">
+                                                          </a>
+    </td>
   </tr>
 </tbody>
 </table>
