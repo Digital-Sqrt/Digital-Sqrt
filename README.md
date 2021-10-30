@@ -1,10 +1,10 @@
 ## Welcome to Digital Sqrt 
 I am glad you found our page.   If you need documentation is can be found with the links to the left.
-
-We no longer support an ecommerce websight. We are still in bisness but are only selling through 3rd party resellers.
-
-However,  we dont want to leave anyone who has our products without support.  So,  we are supporting a minamal webpage, documentation and an 
-e-mail address.    <a href="mailto:customer.support@digital-sqrt.com">customer.support@digital-sqrt.com</a><br>
+<br>
+We no longer support an ecommerce websight.<br>
+We are still in bisness and manufacturing products.  However, we are only selling through 3rd party resellers.<br>
+<br>
+This sight is dedacated to supporting our documentation and e-mail addres. <a href="mailto:customer.support@digital-sqrt.com">customer.support@digital-sqrt.com</a><br>
 <br>
 Our Products still can be purchased on e-bay.<br>
 
