@@ -3,11 +3,10 @@ I am glad you found our page.   If you need documentation is can be found with t
 
 We no longer support an ecommerce websight. We are still in bisness but are only selling through 3rd party resellers.
 
-However,  we dont want to leave anyone who has our products without support.<br>
+However,  we dont want to leave anyone who has our products without support.  So,  we are mintaing a webpage with documentation and an 
+e-mail address.    <a href="mailto:customer.support@digital-sqrt.com">customer.support@digital-sqrt.com</a><br>
 <br>
 Our Products still can be purchased on e-bay.<br>
-
-
 
 <table>
 <tbody>
