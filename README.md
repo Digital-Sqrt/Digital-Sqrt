@@ -1,6 +1,5 @@
 ## Welcome to Digital Sqrt
-We are glad you found our page.   If you need documentation for our curent or past products it can be found with the links to the left.
-<br>
+We are glad you found our page.   If you need documentation for our curent or past products it can be found with the links to the left.<br><br>
 We no longer support an ecommerce websight.<br><br>
 We are still in bisness and are manufacturing products.  However, we are only selling through 3rd party resellers.<br>
 <br>
