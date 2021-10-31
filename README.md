@@ -3,7 +3,7 @@ We are glad you found our page.   If you need documentation for our curent or pa
 We no longer support an ecommerce websight.<br><br>
 We are still in bisness and are manufacturing products.  However, we are only selling through 3rd party resellers.<br>
 <br>
-This sight is dedacated to supporting our documentation, e-mail addres <a href="mailto:customer.support@digital-sqrt.com">customer.support@digital-sqrt.com</a>, and any news we wish to comunacate.<br>
+This sight is dedacated to supporting our documentation, e-mail addres <a href="mailto:customer.support@digital-sqrt.com">(Send Email)</a>, and any news we wish to comunacate.<br>
 <br>
 Our Products still can be purchased on e-bay.<br>
 
