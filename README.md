@@ -4,7 +4,7 @@ We no longer support an ecommerce websight.<br><br>
 We are still in bisness and are manufacturing products.  However, we are only selling through 3rd party resellers.<br>
 <br>
 This sight is dedacated to supporting our products, providing documentation, and customer emails support. (customer.support@digital-sqrt.com)
-<br>
+<br><br>
 Our Products can be purchased on e-bay.<br>
 
 <table>
