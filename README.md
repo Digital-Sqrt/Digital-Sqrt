@@ -5,7 +5,7 @@ We are still in bisness and are manufacturing products.  However, we are only se
 <br>
 This sight is dedacated to supporting our documentation, e-mail addres <a href="mailto:customer.support@digital-sqrt.com">(Send Email)</a>, and any news we wish to comunacate.<br>
 <br>
-Our Products still can be purchased on e-bay.<br>
+Our Products can be purchased on e-bay.<br>
 
 <table>
 <tbody>
@@ -35,3 +35,44 @@ Our Products still can be purchased on e-bay.<br>
   </tr>
 </tbody>
 </table>
+
+<div class="fcf-body">
+
+    <div id="fcf-form">
+    <h3 class="fcf-h3">Contact us</h3>
+
+    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
+        
+        <div class="fcf-form-group">
+            <label for="Name" class="fcf-label">Your name</label>
+            <div class="fcf-input-group">
+                <input type="text" id="Name" name="Name" class="fcf-form-control" required>
+            </div>
+        </div>
+
+        <div class="fcf-form-group">
+            <label for="Email" class="fcf-label">Your email address</label>
+            <div class="fcf-input-group">
+                <input type="email" id="Email" name="Email" class="fcf-form-control" required>
+            </div>
+        </div>
+
+        <div class="fcf-form-group">
+            <label for="Message" class="fcf-label">Your message</label>
+            <div class="fcf-input-group">
+                <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
+            </div>
+        </div>
+
+        <div class="fcf-form-group">
+            <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send Message</button>
+        </div>
+
+        <div class="fcf-credit" id="fcf-credit">
+        Simple HTML email form provided by: <a href="https://www.freecontactform.com" target="_blank">FreeContactForm.com</a>
+        </div>
+
+    </form>
+    </div>
+
+</div>
