@@ -11,7 +11,7 @@ Our Products can be purchased on e-bay.<br>
 <tbody>
   <tr>
     <td style="text-align:center">Little Monster<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/253867492055">
-                                                                    <img src="/Digital-Sqrt/Images/ICONS/LittleMonster.png" 
+                                                                    <img src="/Images/ICONS/LittleMonster.png" 
                                                                          alt="Little Monster MOSFET">
                                                                     </a>
     </td>
