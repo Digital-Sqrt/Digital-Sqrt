@@ -11,24 +11,24 @@ Our Products can be purchased on e-bay.<br>
 <tbody>
   <tr>
     <td style="text-align:center">Little Monster<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/253867492055">
-                                                                    <img src="/Images/ICONS/LittleMonster.png" 
+                                                                    <img src="http://digital-sqrt.com/Images/ICONS/LittleMonster.png" 
                                                                          alt="Little Monster MOSFET">
                                                                     </a>
     </td>
     <td style="text-align:center">Mosterfet<br>MOSFET BOARD<br><a href="https://www.ebay.com/itm/254727143701">
-                                                              <img src="/Digital-Sqrt/Images/ICONS/Mosterfet.png" 
+                                                              <img src="http://digital-sqrt.com/Images/ICONS/Mosterfet.png" 
                                                                    alt="MOSTERFET MOSFET board">
                                                               </a>
     </td>
   </tr>
   <tr>
     <td style="text-align:center">X Axis Tensioner<br>Upgrade<br><a href="https://www.ebay.com/itm/254151055965">
-                                                          <img src="/Digital-Sqrt/Images/ICONS/tension.jpg" 
+                                                          <img src="http://digital-sqrt.com/Images/ICONS/tension.jpg" 
                                                                alt="X Axis Tensioner">
                                                           </a>
     </td>
     <td style="text-align:center">GT2 Timing Belt<br><a href="https://www.ebay.com/itm/253534548764">
-                                                          <img src="/Digital-Sqrt/Images/ICONS/Belt.jpg" 
+                                                          <img src="http://digital-sqrt.com/Images/ICONS/Belt.jpg" 
                                                                alt="GT2 Timing Belt">
                                                           </a>
     </td>
